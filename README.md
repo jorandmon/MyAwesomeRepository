@@ -1,2 +1,3 @@
 # MyAwesomeRepository
-This is my first comment
+This is my first commit
+This is my second commit
